@@ -24,15 +24,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-$basepathurl 				= 'http://localhost/wedding/client';
+$basepathurl 				= 'wahyuniade-wedding.netlify.app/client';
 
 $config['path_url'] 		= $basepathurl.'/';
 $config['base_url'] 	   	= $basepathurl.'/index.php/';
 $config['assets_url'] 		= $basepathurl.'/assets/';
 $config['system_url'] 		= $basepathurl.'/system_src/';
 
-$config['api_url'] 			= 'http://localhost/wedding/serviceapi/api/';
-$config['root_dir'] 		= 'http://localhost/wedding/serviceapi/';
+$config['api_url'] 			= 'wahyuniade-wedding.netlify.app/serviceapi/api/';
+$config['root_dir'] 		= 'wahyuniade-wedding.netlify.app/serviceapi/';
 
 /*
 |--------------------------------------------------------------------------
