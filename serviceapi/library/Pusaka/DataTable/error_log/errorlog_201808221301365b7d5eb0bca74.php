@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS COUNT FROM data_baa baa WHERE 1=1  AND (baa.IdUser='201483018')   

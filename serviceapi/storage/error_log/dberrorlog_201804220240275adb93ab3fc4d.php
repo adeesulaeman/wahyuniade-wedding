@@ -1,0 +1,3 @@
+
+tahun_lulus_mahasiswa=>
+{"IdUser":"123","nim_mahasiswa":"11111","nama_mahasiswa":"asdad","jenis_kelamin_mahasiswa":"P","jurusan_mahasiswa":"Teknik Informatika","tempat_lahir_mahasiswa":"sdsad","tanggal_lahir_mahasiswa":"2018-04-18","alamat_mahasiswa":"dasd","no_hp_mahasiswa":"324","email_mahasiswa":"dasd@asd.com","tahun_masuk_mahasiswa":"33126","tahun_lulus_mahasiswa":null,"status_mahasiswa":"","EditBy":"123","EditDate":"2018-04-22 02:40:27"}

@@ -1,0 +1,1 @@
+SELECT PayrollAreaCode AS PayrollAreaCode,CompanyName AS CompanyName,Active AS Active FROM hr_mstr_es_company WHERE 1=1    ORDER BY PayrollAreaCode ASC LIMIT 0, 5

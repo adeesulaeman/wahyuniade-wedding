@@ -1,0 +1,1 @@
+SELECT baa.Semester AS Semester,baa.IpkSemesterMahasiswa AS IpkSemesterMahasiswa FROM data_baa baa WHERE 1=1  AND (baa.IdUser='201483018')    ORDER BY baa.AddBy DESC LIMIT 0, 100

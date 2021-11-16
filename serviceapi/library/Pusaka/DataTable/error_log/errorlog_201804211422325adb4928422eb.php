@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS COUNT FROM hr_users WHERE 1=1   

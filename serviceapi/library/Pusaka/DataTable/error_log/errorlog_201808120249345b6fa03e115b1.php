@@ -1,0 +1,1 @@
+SELECT id_baa AS id_baa,nim_mahasiswa AS nim_mahasiswa,ipk_mahasiswa AS ipk_mahasiswa,password_siakad AS password_siakad FROM data_baa WHERE 1=1    ORDER BY nim_mahasiswa ASC LIMIT 0, 5

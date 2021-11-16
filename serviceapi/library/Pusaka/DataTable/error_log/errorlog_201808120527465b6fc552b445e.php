@@ -1,0 +1,1 @@
+SELECT id_pkm AS id_pkm,nim_mahasiswa AS nim_mahasiswa,judul_pkm AS judul_pkm,jenis_pkm AS jenis_pkm,tahun_pkm AS tahun_pkm FROM data_pkm WHERE 1=1    ORDER BY nim_mahasiswa ASC LIMIT 0, 5

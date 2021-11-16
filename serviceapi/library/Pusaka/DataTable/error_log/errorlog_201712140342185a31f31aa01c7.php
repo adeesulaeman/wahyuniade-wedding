@@ -1,0 +1,1 @@
+SELECT EmployeeId AS EmployeeId,Lang AS Lang,FirstName AS FirstName,LastName AS LastName,Division AS Division,DateOfBirth AS DateOfBirth,PlaceOfBirth AS PlaceOfBirth,Religion AS Religion,Gender AS Gender,MaritalStatus AS MaritalStatus FROM hr_mstr_employee WHERE 1=1    ORDER BY Id ASC LIMIT 0, 5

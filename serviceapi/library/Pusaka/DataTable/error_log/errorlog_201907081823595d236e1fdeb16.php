@@ -1,0 +1,1 @@
+SELECT IdInformasi AS IdInformasi,JudulInformasi AS JudulInformasi,DeskripsiInformasi AS DeskripsiInformasi,IsActive AS IsActive,DATE(AddDate) AS AddDate FROM tbl_informasi WHERE 1=1  AND (KategoriInformasi='Informasi' AND IsActive='1')    ORDER BY IdInformasi ASC LIMIT 0, 100

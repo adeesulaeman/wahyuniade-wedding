@@ -1,0 +1,3 @@
+SELECT a.IdBeasiswa AS IdBeasiswa,a.Quota AS Quota,a.TimeStart AS TimeStart,a.Periode AS Periode,a.Status AS Status,a.TimeFinish AS TimeFinish,b.NamaBeasiswa AS NamaBeasiswa,c.NamaTypePenerima AS NamaTypePenerima,(SELECT COUNT(*) FROM tbl_pendaftar where IdBeasiswa=a.IdBeasiswa and StatusPendaftar != Batal) AS Jml FROM tbl_status_beasiswa a
+			JOIN tbl_detail_beasiswa b ON a.IdDetailBeasiswa=b.IdDetailBeasiswa
+			JOIN tbl_type_penerima_beasiswa c ON c.IdTypePenerima=a.IdType WHERE 1=1    ORDER BY a.Status DESC LIMIT 0, 5

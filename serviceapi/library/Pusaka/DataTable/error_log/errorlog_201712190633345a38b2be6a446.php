@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS COUNT FROM hr_data_leave_request lr, hr_mstr_employee emp, hr_mstr_leave_category cat WHERE 1=1  AND (lr.EmployeeId=emp.EmployeeId AND cat.LeaveId=lr.LeaveId)   

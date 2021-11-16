@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS COUNT FROM hr_mstr_es_employee_group WHERE 1=1   

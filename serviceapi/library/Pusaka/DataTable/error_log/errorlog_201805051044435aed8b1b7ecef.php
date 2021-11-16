@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS COUNT FROM tbl_status_beasiswa a join tbl_type_penerima_beasiswa on a.IdType=b.IdTypePenerima join tbl_detail_beasiswa c on a.IdDetailBeasiswa=c.IdDetailBeasiswa WHERE 1=1   

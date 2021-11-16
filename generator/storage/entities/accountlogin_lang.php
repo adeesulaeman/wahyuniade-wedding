@@ -1,0 +1,16 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
+$lang['entities_accountlogin_Username'] = 'Username';
+$lang['entities_accountlogin_Password'] = 'Password';
+$lang['entities_accountlogin_Email'] = 'Email';
+$lang['entities_accountlogin_Contact'] = 'Contact';
+$lang['entities_accountlogin_Name'] = 'Name';
+$lang['entities_accountlogin_Role'] = 'Role';
+$lang['entities_accountlogin_SecurityKey'] = 'SecurityKey';
+$lang['entities_accountlogin_ValidateToken'] = 'ValidateToken';
+$lang['entities_accountlogin_DeviceActive'] = 'DeviceActive';
+$lang['entities_accountlogin_Status'] = 'Status';
+$lang['entities_accountlogin_AddBy'] = 'AddBy';
+$lang['entities_accountlogin_AddDate'] = 'AddDate';
+$lang['entities_accountlogin_EditBy'] = 'EditBy';
+$lang['entities_accountlogin_EditDate'] = 'EditDate';
+$lang['entities_accountlogin_TimeStamp'] = 'TimeStamp';

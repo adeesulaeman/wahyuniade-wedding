@@ -1,0 +1,3 @@
+
+IdUsers=>
+{"IdUsers":null,"nim_mahasiswa":"2123","nama_mahasiswa":"sasaad","jenis_kelamin_mahasiswa":"L","jurusan_mahasiswa":"Teknik Informatika","fakultas_mahasiswa":null,"tempat_lahir_mahasiswa":"dasdsasdas","tanggal_lahir_mahasiswa":"2018-04-18","alamat_mahasiswa":"DSAD","no_hp_mahasiswa":"223213","email_mahasiswa":"AD@DAS.CASOC","tahun_masuk_mahasiswa":"2015","EditBy":"123","EditDate":"2018-04-21 22:25:07"}

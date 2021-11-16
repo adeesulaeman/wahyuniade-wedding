@@ -1,0 +1,10 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
+$lang['entities_tbl_sku_IdSKU'] = 'IdSKU';
+$lang['entities_tbl_sku_IsiSku'] = 'IsiSku';
+$lang['entities_tbl_sku_TingkatanSku'] = 'TingkatanSku';
+$lang['entities_tbl_sku_CategorySku'] = 'CategorySku';
+$lang['entities_tbl_sku_AddBy'] = 'AddBy';
+$lang['entities_tbl_sku_AddDate'] = 'AddDate';
+$lang['entities_tbl_sku_EditDate'] = 'EditDate';
+$lang['entities_tbl_sku_EditBy'] = 'EditBy';
+$lang['entities_tbl_sku_TimeStamp'] = 'TimeStamp';

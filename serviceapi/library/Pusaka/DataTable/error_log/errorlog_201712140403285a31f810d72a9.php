@@ -1,0 +1,1 @@
+SELECT Id AS Id,Description AS Description,BeginDate AS BeginDate,EndDate AS EndDate,ActiveMonth AS ActiveMonth,ActiveYear AS ActiveYear,Status AS Status FROM hr_data_global_period WHERE 1=1    ORDER BY Id ASC LIMIT 0, 5

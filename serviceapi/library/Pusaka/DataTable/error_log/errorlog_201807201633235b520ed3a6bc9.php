@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS COUNT FROM tbl_mahasiswa WHERE 1=1  AND (status_mahasiswa='ALUMNI')   

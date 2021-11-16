@@ -1,0 +1,16 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
+$lang['entities_productdetail_Product'] = 'Product';
+$lang['entities_productdetail_Sertifikat'] = 'Sertifikat';
+$lang['entities_productdetail_LinePhone'] = 'LinePhone';
+$lang['entities_productdetail_Jalan'] = 'Jalan';
+$lang['entities_productdetail_Nomor'] = 'Nomor';
+$lang['entities_productdetail_Blok'] = 'Blok';
+$lang['entities_productdetail_LuasTanah'] = 'LuasTanah';
+$lang['entities_productdetail_LuasBangunan'] = 'LuasBangunan';
+$lang['entities_productdetail_KamarTidur'] = 'KamarTidur';
+$lang['entities_productdetail_KamarMandi'] = 'KamarMandi';
+$lang['entities_productdetail_TempatParkir'] = 'TempatParkir';
+$lang['entities_productdetail_JumlahLantai'] = 'JumlahLantai';
+$lang['entities_productdetail_DayaListrik'] = 'DayaListrik';
+$lang['entities_productdetail_OrientasiHadap'] = 'OrientasiHadap';
+$lang['entities_productdetail_TimeStamp'] = 'TimeStamp';

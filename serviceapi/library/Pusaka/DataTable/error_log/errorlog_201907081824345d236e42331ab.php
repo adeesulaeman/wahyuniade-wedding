@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS COUNT FROM tbl_informasi WHERE 1=1  AND (KategoriInformasi='Informasi' AND IsActive='1')   

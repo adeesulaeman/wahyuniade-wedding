@@ -1,0 +1,1 @@
+SELECT Username AS Username,EmployeeId AS EmployeeId,Password AS Password,Email AS Email,Contact AS Contact,Name AS Name,Role AS Role,Status AS Status FROM hr_users WHERE 1=1    ORDER BY Username ASC LIMIT 0, 5

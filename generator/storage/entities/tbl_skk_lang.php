@@ -1,0 +1,10 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
+$lang['entities_tbl_skk_idSkk'] = 'idSkk';
+$lang['entities_tbl_skk_IsiSkk'] = 'IsiSkk';
+$lang['entities_tbl_skk_TingkatanSkk'] = 'TingkatanSkk';
+$lang['entities_tbl_skk_CategorySkk'] = 'CategorySkk';
+$lang['entities_tbl_skk_AddBy'] = 'AddBy';
+$lang['entities_tbl_skk_AddDate'] = 'AddDate';
+$lang['entities_tbl_skk_EditBy'] = 'EditBy';
+$lang['entities_tbl_skk_EditDate'] = 'EditDate';
+$lang['entities_tbl_skk_TimeStamp'] = 'TimeStamp';

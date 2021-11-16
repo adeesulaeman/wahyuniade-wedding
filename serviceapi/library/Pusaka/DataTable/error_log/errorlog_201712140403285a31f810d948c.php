@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS COUNT FROM hr_data_global_period WHERE 1=1   

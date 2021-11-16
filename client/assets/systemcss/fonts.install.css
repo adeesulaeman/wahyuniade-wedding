@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'palanquin-regular';
+  src: url('../fonts/palanquin/palanquin-regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'palanquin-medium';
+  src: url('../fonts/palanquin/palanquin-medium.ttf') format('truetype');
+}
+
+/* Artifika */
+@font-face {
+  font-family: 'artifika';
+  src: url('../fonts/artifika/KUmbsEUmwZBks8S_dFROo_esZW2xOQ-xsNqO47m55DA.woff2') format('woff2');
+}
